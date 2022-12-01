@@ -4,7 +4,7 @@
 A CLI program that demonstrates simple pathfinding on a 2D ASCII grid based on [Lee algorithm](https://en.wikipedia.org/wiki/Lee_algorithm). I wrote the program in 2017 when I was learning breadth-first search algorithm in University.
 
 ## Requirements
-PascalABC.NET is required to run.
+[PascalABC.NET](http://pascalabc.net/en/download) is required to run.
 
 Other Pascal compilers or IDEs may also work but they weren't tested.
 
