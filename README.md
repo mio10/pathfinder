@@ -3,6 +3,8 @@
 ## Description
 A CLI program that demonstrates simple pathfinding on a 2D ASCII grid based on [Lee algorithm](https://en.wikipedia.org/wiki/Lee_algorithm). I wrote the program in 2017 when I was learning breadth-first search algorithm in University.
 
+![](thumbnail.png)
+
 ## Requirements
 [PascalABC.NET](http://pascalabc.net/en/download) is required to run.
 
